@@ -9,6 +9,6 @@ lead_text: 'Hamed Saber - Colorful Nightmare'
 ---
 
 Happy September
-
+<br>
 
 Welcome back to school.
